@@ -1,4 +1,3 @@
----
 
 # Fashion E-Commerce Web Application
 
@@ -64,4 +63,3 @@ To clone and run this project locally, follow these steps:
 - [React](https://reactjs.org/) for building the user interface.
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) for development tools.
 
----
